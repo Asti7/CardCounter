@@ -1,11 +1,11 @@
-file:///Users/Tikks/Desktop/card_counter/card_counter/.dart_tool/flutter_build/41d274a81c1261296bb37c7d7ede0103/main.dart
-file:///Users/Tikks/Desktop/card_counter/card_counter/.packages
-file:///Users/Tikks/Desktop/card_counter/card_counter/lib/intro_page.dart
-file:///Users/Tikks/Desktop/card_counter/card_counter/lib/main.dart
-file:///Users/Tikks/Desktop/card_counter/card_counter/lib/main_page.dart
-file:///Users/Tikks/Desktop/card_counter/card_counter/lib/value.dart
-file:///Users/Tikks/Desktop/card_counter/card_counter/lib/widgets/custom_dialog.dart
-file:///Users/Tikks/Desktop/card_counter/card_counter/lib/widgets/custom_popup.dart
+file:///Users/Tikks/Developer/Projects/Card%20Counter/card_counter/card_counter/.dart_tool/flutter_build/c60501128bb0a1f1eb3f9a42f488b299/main.dart
+file:///Users/Tikks/Developer/Projects/Card%20Counter/card_counter/card_counter/.packages
+file:///Users/Tikks/Developer/Projects/Card%20Counter/card_counter/card_counter/lib/intro_page.dart
+file:///Users/Tikks/Developer/Projects/Card%20Counter/card_counter/card_counter/lib/main.dart
+file:///Users/Tikks/Developer/Projects/Card%20Counter/card_counter/card_counter/lib/main_page.dart
+file:///Users/Tikks/Developer/Projects/Card%20Counter/card_counter/card_counter/lib/value.dart
+file:///Users/Tikks/Developer/Projects/Card%20Counter/card_counter/card_counter/lib/widgets/custom_dialog.dart
+file:///Users/Tikks/Developer/Projects/Card%20Counter/card_counter/card_counter/lib/widgets/custom_popup.dart
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/animated_text_kit-1.3.1/lib/animated_text_kit.dart
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/animated_text_kit-1.3.1/lib/src/colorize.dart
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/animated_text_kit-1.3.1/lib/src/fade.dart
@@ -33,7 +33,7 @@ file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/collect
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
-file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.7/lib/meta.dart
+file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib/meta.dart
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
 file:///Users/Tikks/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
@@ -74,11 +74,13 @@ file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engi
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/engine_delegate.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/fonts.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/image.dart
+file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/image_filter.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/initialization.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/layer.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/layer_scene_builder.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/layer_tree.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/path.dart
+file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/path_metrics.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/picture.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/picture_recorder.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/platform_message.dart
@@ -87,6 +89,7 @@ file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engi
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/recording_canvas.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/runtime_delegate.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/surface.dart
+file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/text.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/util.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/vertices.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/viewport_metrics.dart
@@ -103,6 +106,7 @@ file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engi
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/platform_views.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/plugins.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/pointer_binding.dart
+file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/pointer_converter.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/recording_canvas.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/render_vertices.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/rrect_renderer.dart
@@ -157,6 +161,8 @@ file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/in
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/lerp.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/natives.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/painting.dart
+file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/path.dart
+file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/path_metrics.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/pointer.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/semantics.dart
 file:///Users/Tikks/Developer/flutter/bin/cache/flutter_web_sdk/lib/ui/src/ui/test_embedding.dart
@@ -190,6 +196,8 @@ file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/bottom_
 file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/button.dart
 file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/colors.dart
 file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/constants.dart
+file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/context_menu.dart
+file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/context_menu_action.dart
 file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/date_picker.dart
 file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/dialog.dart
 file:///Users/Tikks/Developer/flutter/packages/flutter/lib/src/cupertino/icon_theme_data.dart
